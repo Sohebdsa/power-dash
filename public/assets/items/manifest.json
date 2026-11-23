@@ -1,0 +1,4 @@
+{
+  "_readme": "To use a real photo for an item, drop a transparent-background PNG/WebP (512x512 recommended) in this folder and map the item id to the file name below, e.g. \"apple\": \"apple.webp\". Unlisted items use the built-in illustrations.",
+  "images": {}
+}
